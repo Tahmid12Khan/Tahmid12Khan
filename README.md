@@ -27,7 +27,7 @@ Competitive Programmer — Codeforces [`_Dark_Shadow_`](https://codeforces.com/p
 
 ---
 
-> 📊 **Note:** The public stats card below counts **public repositories only**. Most of my engineering work lives in **private client repositories** (NHST, Cefalo) and isn't reflected there. Real activity:
+> 📊 Most of my engineering lives in **private client repositories** (NHST, Cefalo). Real activity:
 
 <div align="center">
 
@@ -40,9 +40,6 @@ Competitive Programmer — Codeforces [`_Dark_Shadow_`](https://codeforces.com/p
 ---
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tahmid12Khan&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmid12Khan&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tahmid12Khan&hide_border=true&theme=tokyonight" />
 <img height="170" src="https://codeforces-readme-stats.vercel.app/api/card?username=_Dark_Shadow_&theme=tokyonight&hide_border=true" />
