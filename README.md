@@ -27,6 +27,18 @@ Competitive Programmer — Codeforces [`_Dark_Shadow_`](https://codeforces.com/p
 
 ---
 
+> 📊 **Note:** The public stats card below counts **public repositories only**. Most of my engineering work lives in **private client repositories** (NHST, Cefalo) and isn't reflected there. Real activity:
+
+<div align="center">
+
+![Commits last 12 months](https://img.shields.io/badge/Commits_(last_12mo)-1%2C697-2dd4bf?style=for-the-badge&logo=git&logoColor=white)
+![Contributions in 2025](https://img.shields.io/badge/Contributions_2025-1%2C913-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+![Lifetime contributions](https://img.shields.io/badge/Total_Contributions-11%2C553-bb86fc?style=for-the-badge&logo=githubsponsors&logoColor=white)
+
+</div>
+
+---
+
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tahmid12Khan&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
