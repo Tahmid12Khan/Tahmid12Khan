@@ -5,7 +5,7 @@
 **Software Engineer @ Cefalo** · Java · Distributed Systems · AWS
 Competitive Programmer — Codeforces [`_Dark_Shadow_`](https://codeforces.com/profile/_Dark_Shadow_) · CSE, University of Dhaka
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://tahmid12khan.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://tahmid12khan.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahmid-khan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahmidkhan37@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_Dark_Shadow_)
@@ -33,6 +33,7 @@ Competitive Programmer — Codeforces [`_Dark_Shadow_`](https://codeforces.com/p
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmid12Khan&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tahmid12Khan&hide_border=true&theme=tokyonight" />
+<img height="170" src="https://codeforces-readme-stats.vercel.app/api/card?username=_Dark_Shadow_&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=Tahmid12Khan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 
