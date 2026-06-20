@@ -47,8 +47,6 @@ Competitive Programmer — Codeforces [`_Dark_Shadow_`](https://codeforces.com/p
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tahmid12Khan&hide_border=true&theme=tokyonight" />
 <img height="170" src="https://codeforces-readme-stats.vercel.app/api/card?username=_Dark_Shadow_&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tahmid12Khan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-
 </div>
 
 ---
