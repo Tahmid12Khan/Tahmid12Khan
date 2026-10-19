@@ -2,7 +2,7 @@
 
 # Tahmid Khan
 
-**Software Engineer @ Cefalo** · Java · Distributed Systems · AWS
+**Staff Software Engineer & AI Lead @ Cefalo** · Java · Distributed Systems · AWS
 Competitive Programmer — Codeforces [`_Dark_Shadow_`](https://codeforces.com/profile/_Dark_Shadow_) · CSE, University of Dhaka
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://tahmid12khan.github.io/portfolio/)
